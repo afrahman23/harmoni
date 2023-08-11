@@ -14,7 +14,7 @@ Berikut eksperimen kekuatan sinyal *Wi-Fi 2,5GHz* tipe *Unifi AC HD* terhadap ke
 1. *Ubiquiti* tipe UAP-AC-HD GigE PoE (Dual Band 2,4GHz/5GHz) sebagai Wireless Access Point [https://store.ui.com/us/en/products/uap-ac-hd](https://store.ui.com/us/en/products/uap-ac-hd)
 
 2. Laptop *Windows 10* dengan tool sofware;
-    1. *Netspot* untuk mengukur kekuatan sinyal [https://www.netspotapp.com/](https://www.netspotapp.com/)
+   1. *Netspot* untuk mengukur kekuatan sinyal [https://www.netspotapp.com/](https://www.netspotapp.com/)
     2. *Bandwidth Test v0.1* (RouterOS) [https://mt.lv/btest](https://mt.lv/btest)
 	3. *Matplotlib* [https://matplotlib.org/](https://matplotlib.org/)
 
@@ -37,19 +37,22 @@ antara Access Point (Pemancar) dan Laptop (Penerima), ada 8 titik posisi jarak p
 1. pengaruh jarak terhadap kekuatan sinyal
 
 X = Jarak (meter)
-Y = Kecepatan Bandwidth (Mbps)
-<img title="rxsignal" alt="signal" src="ubntlab/unifi/rxsignal.png">
+Y = Signal Strenght (dBm)
 
-<img title="txsignal" alt="signal" src="ubntlab/unifi/txsignal.png">
 
-2. pengaruh kekuatan sinyal pada speed uplink dan downlink
+<img title="rxsignal" alt="signal" src="https://github.com/afrahman23/myproject/blob/main/ubntlab/unifi/rxsignal.png">
+
+<img title="txsignal" alt="signal" src="https://github.com/afrahman23/myproject/blob/main/ubntlab/unifi/txsignal.png">
+
+1. pengaruh kekuatan sinyal pada speed uplink dan downlink
 
 X = Jarak (meter)
 Y = Kecepatan Bandwidth (Mbps)
 
-<img title="rxspeed" alt="speed" src="ubntlab/unifi/rxspeed.png">
+-
+<img title="rxspeed" alt="speed" src="https://github.com/afrahman23/myproject/blob/main/ubntlab/unifi/rxspeed.png">
 
-<img title="txspeed" alt="speed" src="ubntlab/unifi/txspeed.png">
+<img title="txspeed" alt="speed" src="https://github.com/afrahman23/myproject/blob/main/ubntlab/unifi/txspeed.png">
 
 
 ## Kesimpulan
