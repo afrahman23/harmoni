@@ -36,8 +36,8 @@ antara Access Point (Pemancar) dan Laptop (Penerima), ada 8 titik posisi jarak p
 
 # pengaruh jarak terhadap kekuatan sinyal
 
-> X = Jarak (meter)
-> Y = Signal Strenght (dBm)
+> X = Jarak (*meter*),
+> Y = Signal Strenght (*dBm*)
 
 
 <img title="rxsignal" alt="signal" src="https://github.com/afrahman23/myproject/blob/main/ubntlab/unifi/rxsignal.png">
@@ -46,10 +46,9 @@ antara Access Point (Pemancar) dan Laptop (Penerima), ada 8 titik posisi jarak p
 
 # pengaruh kekuatan sinyal pada speed uplink dan downlink
 
-> X = Jarak (meter)
-> Y = Kecepatan Bandwidth (Mbps)
+> X = Jarak (*meter*),
+> Y = Kecepatan Bandwidth (*Mbps*)
 
--
 <img title="rxspeed" alt="speed" src="https://github.com/afrahman23/myproject/blob/main/ubntlab/unifi/rxspeed.png">
 
 <img title="txspeed" alt="speed" src="https://github.com/afrahman23/myproject/blob/main/ubntlab/unifi/txspeed.png">
@@ -57,6 +56,7 @@ antara Access Point (Pemancar) dan Laptop (Penerima), ada 8 titik posisi jarak p
 
 ## Kesimpulan
 Secara umum kita sudah mengetahui prinsip bahwa semakin jauh jarak dari Access Point, semakin melemah sinyal yang diterima Laptop.  Pengujian speed hampir menghasilkan pola sama, dimana dalam grafik yang ditunjukan semakin jauh jarak dari Access Point, semakin menurunkan kemampuan Througput capacity.
+
 Lalu, saat sinyal menghilang ketika jarak sudah diatas 45 meter, pengukuran Througput capacity tidak dapat dilakukan karena tidak ada sinyal, paket data tidak dapat dilewatkan.  
 
 Yang menarik, ketika jarak maju mendekati maksimal 40 meter dari Access Point, saat mendapatkan sinyal terlemah di kisaran -63dBm,  paket data masih bisa lewat dengan speed yang dipertahankan, dimana didapatkan kembali Througput capacity maksimal di 10Mbps. 
