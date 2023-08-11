@@ -33,9 +33,6 @@ feb/24 23:51:34 script,info Done!!!
 
 synology `explorer`:
 
-```
-
 <img src="https://github.com/afrahman23/myproject/blob/main/routerosscript/dailybackup/nas-backup.PNG" alt="nas backup" width="100%">
 
-```
 
