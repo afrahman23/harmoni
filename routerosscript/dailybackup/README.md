@@ -35,7 +35,7 @@ synology `explorer`:
 
 ```
 
-<img src="https://github.com/afrahman23/myproject/routerosscript/blob/main/nas-backup.PNG" alt="nas backup" width="100%">
+<img src="https://github.com/afrahman23/myproject/blob/main/routerosscript/dailybackup/nas-backup.PNG" alt="nas backup" width="100%">
 
 ```
 
