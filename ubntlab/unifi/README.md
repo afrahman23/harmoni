@@ -38,12 +38,18 @@ antara Access Point (Pemancar) dan Laptop (Penerima), ada 8 titik posisi jarak p
 
 X = Jarak (meter)
 Y = Kecepatan Bandwidth (Mbps)
+<img title="rxsignal" alt="signal" src="ubntlab/unifi/rxsignal.png">
 
+<img title="txsignal" alt="signal" src="ubntlab/unifi/txsignal.png">
 
 2. pengaruh kekuatan sinyal pada speed uplink dan downlink
 
 X = Jarak (meter)
 Y = Kecepatan Bandwidth (Mbps)
+
+<img title="rxspeed" alt="speed" src="ubntlab/unifi/rxspeed.png">
+
+<img title="txspeed" alt="speed" src="ubntlab/unifi/txspeed.png">
 
 
 ## Kesimpulan
