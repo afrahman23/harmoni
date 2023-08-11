@@ -3,13 +3,13 @@ Backup file (.rsc) & (.backup) harian ke Synology Server.
 
 
 ## Fitur: 
--mikrotik `log` 
--notif telegram
+⚡️ mikrotik `log` 
+⚡️ notif telegram
 
 ## Goal
 
--Jika berhasil upload file backup, ditandai pesan mikrotik log *`Done!!!`*
--Jika gagal, akan mengirim notif ke grup telegram *`backupfile backup to FTP failed`*
+- Jika berhasil upload file backup, ditandai pesan mikrotik log *`Done!!!`*
+- Jika gagal, akan mengirim notif ke grup telegram *`backupfile backup to FTP failed`*
 
 
 mikrotik `log`:
