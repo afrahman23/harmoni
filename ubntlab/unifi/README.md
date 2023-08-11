@@ -34,20 +34,20 @@ antara Access Point (Pemancar) dan Laptop (Penerima), ada 8 titik posisi jarak p
 
 0, 3, 7, 20 30, 35, 40, 45 
 
-1. pengaruh jarak terhadap kekuatan sinyal
+# pengaruh jarak terhadap kekuatan sinyal
 
-X = Jarak (meter)
-Y = Signal Strenght (dBm)
+> X = Jarak (meter)
+> Y = Signal Strenght (dBm)
 
 
 <img title="rxsignal" alt="signal" src="https://github.com/afrahman23/myproject/blob/main/ubntlab/unifi/rxsignal.png">
 
 <img title="txsignal" alt="signal" src="https://github.com/afrahman23/myproject/blob/main/ubntlab/unifi/txsignal.png">
 
-1. pengaruh kekuatan sinyal pada speed uplink dan downlink
+# pengaruh kekuatan sinyal pada speed uplink dan downlink
 
-X = Jarak (meter)
-Y = Kecepatan Bandwidth (Mbps)
+> X = Jarak (meter)
+> Y = Kecepatan Bandwidth (Mbps)
 
 -
 <img title="rxspeed" alt="speed" src="https://github.com/afrahman23/myproject/blob/main/ubntlab/unifi/rxspeed.png">
