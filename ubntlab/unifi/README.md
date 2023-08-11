@@ -57,13 +57,11 @@ antara Access Point (Pemancar) dan Laptop (Penerima), ada 8 titik posisi jarak p
 ## Kesimpulan
 Secara umum kita sudah mengetahui prinsip bahwa semakin jauh jarak dari Access Point, semakin melemah sinyal yang diterima Laptop.  Pengujian speed hampir menghasilkan pola sama, dimana dalam grafik yang ditunjukan semakin jauh jarak dari Access Point, semakin menurunkan kemampuan Througput capacity.
 
-Lalu, saat sinyal menghilang ketika jarak sudah diatas 45 meter, pengukuran Througput capacity tidak dapat dilakukan karena tidak ada sinyal, paket data tidak dapat dilewatkan.  
+Lalu, ketika jarak diatas 45 meter, sinyal menghilang.  Pengukuran Througput capacity tidak dapat dilakukan karena paket data tidak dapat dilewatkan.  
 
-Yang menarik, ketika jarak maju mendekati maksimal 40 meter dari Access Point, saat mendapatkan sinyal terlemah di kisaran -63dBm,  paket data masih bisa lewat dengan speed yang dipertahankan, dimana didapatkan kembali Througput capacity maksimal di 10Mbps. 
+Yang menarik, ketika maju mendekati jarak maksimal di 40 meter dari Access Point, dalam keadaan sinyal terlemah di kisaran -63dBm,  paket data bisa dilewatkan kembali dengan speed yang dipertahankan, dimana Througput capacity yang sedang diukur maksimal di 10Mbps. 
 
-Ini yang bisa saya katakan kelebihan dari perangkat brand Ubiquiti Unifi UAP-AC-HD, 
-setara dengan nilai harganya kisaran $349 atau setara 6 juta.
-
+Ini yang bisa saya katakan kelebihan dari perangkat brand Ubiquiti Unifi UAP-AC-HD. 
 
 
 
