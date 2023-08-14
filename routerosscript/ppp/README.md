@@ -20,7 +20,7 @@
 
 ## Configuration
 
-accept established/related and work with `new packets`, [see]()  
+accept established/related and work with `new packets`, [see](https://help.mikrotik.com/docs/display/ROS/Building+Advanced+Firewall)  
 
 ```sh
 /ip firewall filter
@@ -53,7 +53,7 @@ add action=drop chain=clientC-in comment="== drop | only clientC" dst-address-li
 ```
 
 
-## Check dial 
+## Check dynamic firewall 
 
 ```sh
 /ip firewall filter pr det
