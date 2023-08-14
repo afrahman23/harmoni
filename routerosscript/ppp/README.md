@@ -1,15 +1,15 @@
 # Make your VPN customers comfortable ⚡️ 
 
-## Senario
+## Scenario
 📝 When you'll restrict access One client with another on a VPN dial, the simplest is to follow the dynamic nature of the `interfaces`, limiting based on the attributes of the VPN interface itself, in this case `l2tp-client`.
 
 
 
 # Goal ⚡️ 
-1. Allow access to certain IP addresses only, specific to the intranet
-  sample : `host-subnet_clientA` : 10.200.16.2
+1. Allow access to certain IP addresses only, specific to the intranet.
+   - sample : `host-subnet_clientA` : 10.200.16.2
 2. Subnet allocation for each client.
-  sample : `ip-pool_clientA` : 10.10.16.0/24
+   - sample : `ip-pool_clientA` : 10.10.16.0/24
 
 
 <h2 align="center">
