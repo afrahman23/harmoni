@@ -13,7 +13,7 @@
 
 
 <h2 align="center">
-  <img src="https://github.com/afrahman23/harmoni/blob/main/intravpn.jpeg" alt="intranet" width="100%">
+  <img src="https://github.com/afrahman23/harmoni/blob/main/routerosscript/ppp/intravpn.jpeg" alt="intranet" width="100%">
 </h2>
 
 ---
